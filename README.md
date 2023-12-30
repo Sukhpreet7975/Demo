@@ -1,4 +1,4 @@
 # Demo
-This is my fierst Git Repository
+This is my first Git Repository
 <br>
 Author- Sukhpreet
